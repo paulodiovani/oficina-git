@@ -25,3 +25,5 @@
 * `git diff`
 
   Visualiza diferenças entre versões
+
+o/
