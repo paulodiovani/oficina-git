@@ -21,3 +21,7 @@
 * `git log`
 
   Visualiza histórico de modificações
+
+* `git diff`
+
+  Visualiza diferenças entre versões
